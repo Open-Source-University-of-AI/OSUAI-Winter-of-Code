@@ -17,6 +17,7 @@ Learn the MERN Stack from beginner to advanced, covering the basics of DevOps, o
 - [ ] git switch branch_name
 - [ ] git checkout branch_name
 - [ ] Conflict Resolution between files
+- [ ] Forking and Cloning Repositories
 
 
 #### Foundation Javascript, async nature of JS
