@@ -21,33 +21,33 @@ Learn the MERN Stack from beginner to advanced, covering the basics of DevOps, o
 
 
 #### Foundation Javascript, async nature of JS
-- [x] Basics of JavaScript syntax
-  - [x] Variables
-  - [x] Data types
-  - [x] Operators
-  - [x] Expressions
-  - [x] Control flow
-    - [x] if statements
-    - [x] Ternary operator
-    - [x] For loops
-    - [x] While loops
-    - [x] Do While loop
-  - [x] Functions and scope
+- [ ] Basics of JavaScript syntax
+  - [ ] Variables
+  - [ ] Data types
+  - [ ] Operators
+  - [ ] Expressions
+  - [ ] Control flow
+    - [ ] if statements
+    - [ ] Ternary operator
+    - [ ] For loops
+    - [ ] While loops
+    - [ ] Do While loop
+  - [ ] Functions and scope
   - [ ] ES6 Features
     - [ ] Arrow Functions
     - [ ] Template Literals
     - [ ] Destructuring
     - [ ] Let and Const
     - [ ] Classes and Modules
-- [x] Understanding asynchronous nature
-  - [x] Callback functions
-  - [x] Promises
+- [ ] Understanding asynchronous nature
+  - [ ] Callback functions
+  - [ ] Promises
   - [ ] Chaining
-  - [X] Async/await syntax
+  - [ ] Async/await syntax
 
 #### Node.js and its runtime
-- [x] Introduction to Node.js
-  - [x] Installation and setup
+- [ ] Introduction to Node.js
+  - [ ] Installation and setup
   - [ ] Node.js modules and npm
   - [ ] Event-driven architecture
 
@@ -195,26 +195,6 @@ In the 1-100 journey, learn advanced Backend communication, Advanced Devops, Sys
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Complete in One go syllabus
 ## Foundation (Weeks 1-6)
 
@@ -222,8 +202,8 @@ In the 1-100 journey, learn advanced Backend communication, Advanced Devops, Sys
 
 #### **Foundation JavaScript, async nature of JS:**
    - [ ] Basics of JavaScript syntax
-      - [x] Variables and data types
-      - [x] Operators and expressions
+      - [ ] Variables and data types
+      - [ ] Operators and expressions
       - [ ] Control flow (if statements, loops)
       - [ ] Functions and scope
    - [ ] Understanding asynchronous nature
